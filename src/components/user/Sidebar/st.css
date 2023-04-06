@@ -1,0 +1,23 @@
+.parent{
+    display: flex;
+    gap:20px;
+    flex-wrap: wrap;
+    /* border: 1px solid; */
+   
+}
+.wrapper{
+    flex-wrap: wrap;
+    gap:40px;
+    border: 1px solid;
+}
+.p{
+    border-right: 1px solid;
+    padding: 10px;
+    padding-right: 20px;
+}
+.m{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
